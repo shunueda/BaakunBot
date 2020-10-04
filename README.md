@@ -1,4 +1,4 @@
-# nuxt-twitter-auth
+# BaakunBot
 
 > Nuxt.js project
 
